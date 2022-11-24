@@ -1,6 +1,4 @@
 # Graph-based Fraud Detection Papers and Resources
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 **Table of Content**
 - GNN Papers: [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
 - [Non-GNN Papers since 2014](#non-gnn-papers-since-2014-back-to-top)
@@ -8,11 +6,7 @@
 - [Dataset](#dataset-back-to-top)
 - [Other Resource](#other-resource-back-to-top)
 - [Survey Paper](#survey-paper-back-to-top)
-
-
-
 ## GNN Papers
-
 ### 2022 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
